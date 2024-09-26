@@ -1,1 +1,1 @@
-juery
+jquery
